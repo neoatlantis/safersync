@@ -1,3 +1,4 @@
+build/
 *.srsync*
 *.sw?
 *.py?
